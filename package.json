@@ -35,7 +35,7 @@
   "devDependencies": {
     "react-snap": "^1.23.0",
     "rimraf": "^6.0.1",
-    "sass": "^1.80.6",
+    "sass": "^1.81.0",
     "source-map-explorer": "^2.5.3"
   },
   "browserslist": {
