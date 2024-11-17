@@ -23,7 +23,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Rebecca. I am a{' '}
-        <a href="https://icme.stanford.edu/">Senior Software Engineer </a>
+        Senior Software Engineer
         and Indiana University Alumnus.
       </p>
       <ul className="actions">
