@@ -229,17 +229,18 @@ const skills = [
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#0D0C00',
-  '#3bOOAOA',
-  '#8C8A45',
-  '#4F5153',
-  '#7C7376',
-  '#6E5353',
-  '#6E5353',
-  '#6B4145',
-  '#64353B',
-  '#844C32',
-  '#3D3D32',
+  '#695052',
+  '#9a8a68',
+  '#7c4e42',
+  '#422121',
+  '#606c7c',
+  '#1e304f',
+  '#403632',
+  '#110106',
+  '#7f5e50',
+  '#64334d',
+  '#514e2d',
+  '#53413b',
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]
