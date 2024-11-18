@@ -12,7 +12,7 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/projects">Projects</Link>
+            <Link to="/projects">Projects - UNDER CONSTRUCTION</Link>
           </h2>
         </div>
       </header>
