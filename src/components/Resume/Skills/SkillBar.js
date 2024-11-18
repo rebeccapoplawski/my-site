@@ -8,6 +8,7 @@ const SkillBar = ({ data, categories }) => {
   const titleStyle = {
     background: categories
       .filter((cat) => category.includes(cat.name))
+      // NOTE: changing the index # changes the color 
       .map((cat) => cat.color)[1],
   };
 
