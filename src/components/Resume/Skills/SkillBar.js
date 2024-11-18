@@ -8,7 +8,7 @@ const SkillBar = ({ data, categories }) => {
   const titleStyle = {
     background: categories
       .filter((cat) => category.includes(cat.name))
-      .map((cat) => cat.color)[0],
+      .map((cat) => cat.color)[1],
   };
 
   const barStyle = {
