@@ -20,7 +20,7 @@ const Job = ({
       </p>
     </header>
     {summary ? (
-      <Markdown
+      <Markdown className='summary'
         options={{
           overrides: {
             p: {
@@ -34,6 +34,7 @@ const Job = ({
         {summary}
       </Markdown>
     ) : null}
+
     {highlights ? (
       <ul className="points">
         {highlights.map((highlight) => (

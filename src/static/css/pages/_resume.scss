@@ -23,12 +23,15 @@
       margin-bottom: 2em;
     }
   }
+
   .experience {
     .title {
       text-align: center;
     }
+
     .job {
       margin: 1em;
+
       p {
         margin: 0;
       }
@@ -47,9 +50,11 @@
 
   .courses {
     padding-top: 1.6em;
+
     .title {
       text-align: center;
     }
+
     .course-list {
       text-align: center;
 
@@ -61,8 +66,10 @@
 
   .skills {
     margin-top: 2em;
+
     .title {
       text-align: center;
+
       p {
         font-size: 0.9em;
       }
@@ -76,6 +83,7 @@
 
   .references {
     margin: 2em 0;
+
     .title {
       text-align: center;
     }
@@ -100,14 +108,16 @@
 
   .school {
     text-transform: none;
-    padding-top: 0.3em;
+    padding-top: 1em;
     margin-bottom: 1em;
+    font-size: 0.8em;
   }
 }
 
 .courses .course-number {
   display: inline;
 }
+
 .courses .course-name {
   display: inline;
   font-family: "Raleway", Helvetica, sans-serif;
@@ -132,6 +142,7 @@
   .course-dot {
     display: none;
   }
+
   .course-container a {
     display: block;
   }
