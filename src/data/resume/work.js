@@ -19,7 +19,7 @@ const work = [
     startDate: '2024-07-01',
     summary: '7Rivers is a Snowflake® Innovation Partner. Snowflake is a powerful cloud data and applications platform dedicated to mobilizing the world’s data. As a Snowflake Partner, 7Rivers can tap into their technology and use it to build innovative, custom solutions for clients that have a real impact on their businesses.',
     highlights: [
-      'Oracle/SSAS migration to Snowflake',
+
     ],
   },
   {
@@ -28,8 +28,9 @@ const work = [
     url: 'https://gibsonconsulting.com/',
     startDate: '2024-01-04',
     endDate: '2024-07-01',
-    summary: 'summary',
+    summary: 'For over 30 years, Gibson Consulting has been at the forefront of supply chain coonsulting. Specializing in three core areas that drive business excellence:  Strategic Sourcing Mastery, Logisitics Excellence, Data-Driven Insights.',
     highlights: [
+
 
     ],
   },
@@ -39,11 +40,12 @@ const work = [
     url: 'https://www.gm.com/',
     startDate: '2019-06-01',
     endDate: '2023-10-01',
-    summary: '',
+    summary:
+      'IT Innovation Center: Global Purchasing and Supply Chain Manufacturing Organization',
     highlights: [
-      'Data Architecture Optimization: Reduced data processing time by 86%, cube storage by 55%, and refresh time by 2 days through SSAS infrastructure optimization',
-      'UX Redesign: Led the UX redesign for 27+ demand/supply planning tools, boosting user engagement by 100% and saving $2M in BPO expenses',
-      'Team Leadership: Managed a team of 9 full-stack engineers, providing mentorship and fostering growth through challenging projects and continuous feedback'
+      'Multiple Roles/Teams: Data Architect, Bi Developer, Full-stack Web Developer',
+
+
     ],
   },
 ];
